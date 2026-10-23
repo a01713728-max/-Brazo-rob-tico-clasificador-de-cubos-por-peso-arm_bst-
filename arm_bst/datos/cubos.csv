@@ -1,0 +1,8 @@
+# Catalogo de cubos (debe coincidir con worlds/brazo_cubos.sdf)
+# id,color,q1_rad,r_m,peso_real_g
+id,color,q1_rad,r_m,peso_real_g
+1,rojo,-0.6,0.40,300
+2,azul,-0.3,0.46,60
+3,amarillo,0.0,0.42,450
+4,verde,0.3,0.46,120
+5,morado,0.6,0.40,200
